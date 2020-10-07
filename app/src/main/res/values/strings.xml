@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Guardian News</string>
+    <string name="no_internet_connection">NO INTERNET CONNECTION</string>
+    <string name="no_earthquakes">No News Data Available</string>
+</resources>
